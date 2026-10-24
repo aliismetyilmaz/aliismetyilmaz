@@ -13,7 +13,7 @@ on AI features (from model choice to evals and safety), data pipelines, and expe
 - 🚀 **Co-founded** a map-based event marketplace through to exit (Joyin)
 
 ### What I'm building here
-Public projects that show how I think about AI products, not just what they do:
+Public projects that show how I think about AI products:
 - **RAG Eval Harness**: measuring whether an AI assistant's answers are grounded, cited, and correct *(in progress)*
 - **Feedback → Insights**: LLM-powered clustering of customer feedback into a prioritized roadmap *(coming soon)*
 
